@@ -7,6 +7,6 @@ This project implements a Leaky Integrate-and-Fire (LIF) neuron model using Veri
 3. 7-segment display output for membrane potential and spike count
 4. Support modules: binary-to-BCD conversion, debounce, and edge detection
 5. Designed and tested in Vivado with simulation support
-6. 
+   
 Ideal for neuromorphic computing experiments and educational purposes in spiking neural networks (SNNs).
 
